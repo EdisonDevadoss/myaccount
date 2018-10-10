@@ -1,6 +1,6 @@
 /* @flow */
 
-import React, { Component } from "react";
+import React, { Component } from 'react';
 import {
   Container,
   Content,
@@ -10,8 +10,8 @@ import {
   Text,
   View,
   Button
-} from "native-base";
-import styles from "./homeScreenStyleSheet";
+} from 'native-base';
+import styles from './homeScreenStyleSheet';
 export default class HomeScreen extends Component {
   render() {
     return (
